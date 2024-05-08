@@ -29,7 +29,7 @@ The main objective of this project is to develop an accurate predictive model th
 ## Conclusion
 Summarize the key findings and outcomes of the project.
 Discuss any limitations or areas for future improvement.
-Highlight the significance of the project in healthcare and potential implications.
+Highlight the significance of the project in healthcare and its implications.
 
 ## References
 Include any references to research papers, articles, or resources used in the project.
